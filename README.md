@@ -66,17 +66,17 @@
   <a align="left" href="https://github.com/vikhyatsingh123/Delhi-hacks-2020" title="Job Portal"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vikhyatsingh123&repo=Delhi-hacks-2020&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/vikhyatsingh123/student-grade-card" title="Student Grade Card"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vikhyatsingh123&repo=student-grade-card&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/vikhyatsingh123/Speak_UP_Desk" title="Speak UP Desk"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vikhyatsingh123&repo=Speak_UP_Desk&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/vikhyatsingh123/Javascript-content" title="Javascript-content"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vikhyatsingh123&repo=Javascript-content&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/vikhyatsingh123/keyboard" title="Keyboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vikhyatsingh123&repo=Keyboard&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/vikhyatsingh123/SlugTerra" title="SlugTerra"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vikhyatsingh123&repo=SlugTerra&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/vikhyatsingh123?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
