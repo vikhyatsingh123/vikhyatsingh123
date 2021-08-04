@@ -33,3 +33,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikhyatsingh123&show_icons=true&locale=en" alt="vikhyatsingh123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyatsingh123&" alt="vikhyatsingh123" /></p>
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/vikhyatsingh123/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
