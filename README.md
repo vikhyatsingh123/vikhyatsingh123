@@ -84,6 +84,6 @@
 <hr>
 <!-- Profile badges  -->
 <h2 align="center">🏆 Profile Trophy 🏆</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikhyatsingh123&theme=react-dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikhyatsingh123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- end here -->
