@@ -81,6 +81,8 @@
   <a href="https://github.com/vikhyatsingh123?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+
 <hr>
 <!-- Profile badges  -->
 <h2 align="center">🏆 Profile Trophy 🏆</h2>
