@@ -22,9 +22,9 @@
   <br>
   🎓 I have completed my B.Tech degree in Electronics and Communication Engineering from NIT Patna (2023)
   <br>
-  👯 I’m looking to collaborate on Open Source Projects
+  🏆 I have secured a Global Rank of 830 and an India Rank of 527 in the Google Kickstart 2022 Round H 
   <br>
-  📚 I’m currently learning the backend part
+  👯 I’m looking to collaborate on Open Source Projects
   <br>
   💬 Ask me about anything and I will try my best to answer 
   <br>
